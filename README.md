@@ -1,4 +1,4 @@
-# NPU-PIM-simulator
+# NPU-PIM-co-simulator
 
 **Trace-driven NPU-PIM co-simulation framework**
 This repository provides the full source code and configurations for the simulator described in our ICCD 2026 paper.
@@ -61,8 +61,8 @@ We provide **timing simulations** based on user parameters.
 
 ## How to Compile
 ```bash
-git clone NPU-PIM-simulator.git
-cd NPU-PIM-simulator
+git clone NPU-PIM-co-simulator.git
+cd NPU-PIM-co-simulator
 mkdir shared
 cd hsim
 mkdir build && cd build
